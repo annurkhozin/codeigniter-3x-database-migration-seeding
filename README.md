@@ -43,3 +43,7 @@ Type the following commands in your CLI:
 3. `php cli tools seeder UsersSeeder`
 4. `php cli tools seed UsersSeeder` or `php cli tools seeds`
 5. Check your database changes :)
+
+### Reference
+
+- [aaron5670] (https://github.com/aaron5670/CodeIgniter-3-Database-Migration-and-Seeding)
