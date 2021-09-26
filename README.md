@@ -46,4 +46,4 @@ Type the following commands in your CLI:
 
 ### Reference
 
-- [aaron5670] (https://github.com/aaron5670/CodeIgniter-3-Database-Migration-and-Seeding)
+- [aaron5670](https://github.com/aaron5670/CodeIgniter-3-Database-Migration-and-Seeding)
