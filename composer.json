@@ -1,0 +1,35 @@
+{
+	"name": "codeigniter/migration-seeding",
+	"description": "CodeIgniter 3.x with Database Migration & Seeding",
+	"type": "project",
+	"homepage": "https://annurkhozin.github.io",
+	"license": "MIT",
+	"keywords": [
+		"cli",
+		"command",
+		"command line",
+		"codeigniter",
+		"migration",
+		"seeding"
+	],
+	"support": {
+		"source": "https://github.com/annurkhozin/codeigniter-3x-database-migration-seeding"
+	},
+	"authors": [
+		{
+			"name": "Nur Khozin",
+			"homepage": "https://github.com/annurkhozin"
+		}
+	],
+	"require": {
+		"php": ">=5.3.7",
+		"fzaninotto/faker": "^1.8"
+	},
+	"suggest": {
+		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
+	},
+	"require-dev": {
+		"mikey179/vfsstream": "1.1.*",
+		"phpunit/phpunit": "4.* || 5.*"
+	}
+}
