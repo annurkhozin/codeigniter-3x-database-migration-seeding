@@ -38,11 +38,11 @@ In **application/database/migrations** is a migrations file and in **application
 
 Type the following commands in your CLI:
 
-1. `php cli tools migration Users`
-2. `php cli tools migrate Users` or `php cli tools migrate`
-3. `php cli tools seeder UsersSeeder`
-4. `php cli tools seed UsersSeeder` or `php cli tools seeds`
-5. Check your database changes :)
+1. `php cli tools migration Users` create migration file
+2. `php cli tools migrate Users` or `php cli tools migrate` run migration file
+3. `php cli tools seeder UsersSeeder` create seed file
+4. `php cli tools seed UsersSeeder` or `php cli tools seeds` run seed file
+5. Check your database changes 😁
 
 ### Reference
 
